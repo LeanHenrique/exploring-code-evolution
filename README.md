@@ -1,9 +1,3 @@
-# 📈 Análise de Evolução de Código com GitEvo
-
-Este repositório contém a resolução da atividade de exploração da evolução de código em sistemas reais, utilizando a ferramenta de análise estática **GitEvo**.
-
----
-
 ## 🔍 Repositório Analisado
 
 * **Projeto:** [Spring Boot](https://github.com/spring-projects/spring-boot)
